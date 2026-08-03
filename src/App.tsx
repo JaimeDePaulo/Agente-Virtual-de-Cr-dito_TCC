@@ -108,7 +108,7 @@ export default function App() {
                 {/* Chat Content */}
                 <div className="aspect-[9/12] w-full bg-slate-50">
                   <iframe 
-                    src="https://www.chatbase.co/chatbot-iframe/kUv5TYNXL1Vs7LQllp_0j" 
+                    src="https://www.chatbase.co/chatbot-iframe/9Sija2zo4A-PZ8YMV3sNn" 
                     width="100%" 
                     height="100%" 
                     frameBorder="0"
